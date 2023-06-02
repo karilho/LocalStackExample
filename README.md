@@ -5,7 +5,7 @@
  aplicações sem a necessidade de criar recursos na AWS, utilizando seus principais serviços, como S3, SQS, SNS, SecretsManager etc.
 
 
-### Pré-requisitos
+### Pré-requisitosa
 
 - Docker Desktop
 - AWS CLI
